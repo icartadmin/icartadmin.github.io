@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+*{
+	box-sizing:border-box;
+}
 html {
 	font-family: sans-serif;
 	-ms-text-size-adjust: 100%;
@@ -18,9 +21,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 a {
     color: #1e6bb8;
     text-decoration: none;
-}
-*{
-	box-sizing:border-box;
 }
 .page-header {
     color: #fff;
